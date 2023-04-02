@@ -1,0 +1,17 @@
+import requests
+from django.shortcuts import render
+
+def chatbot(request):
+    if request.method == 'POST':
+        message = request.POST.get('message')
+
+        api_url = 'https://w60ancsmh5.execute-api.ap-southeast-2.amazonaws.com/Prod'
+        headers = {'Content-Type': 'application/json'}
+        data = {'message': message}
+
+        response = requests.post(api_url, headers=headers, json=data)
+        chatbot_response = response.json()['body']['message']
+
+        return render(request, 'chatbot.html', {'chatbot_response': chatbot_response})
+
+    return render(request, 'chatbot.html')
