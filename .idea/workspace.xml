@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="985f7508-0015-4416-ab94-8238a64af7ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/a_Django_app/templates/chatbot.html" afterDir="false" />
+    <list default="true" id="985f7508-0015-4416-ab94-8238a64af7ec" name="Changes" comment="chatbot import">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_Django_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/a_Django_app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,14 @@
       <option name="presentableId" value="Default" />
       <updated>1680361944378</updated>
     </task>
+    <task id="LOCAL-00001" summary="chatbot import">
+      <created>1680427010749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680427010749</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chatbot import" />
+    <option name="LAST_COMMIT_MESSAGE" value="chatbot import" />
   </component>
 </project>
