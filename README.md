@@ -23,7 +23,7 @@ PyCharm and Django
 To access the unsuccessful attempt at writing the web app using PyCharm and Django framework, navigate the uploaded files on GitHub directory where the file A_Django_Project is located. 
 
 API
-To access the unsuccessful attempt at creating an API using JSON to communicate between the chatbot and the web app, navigate to the following URL: [https://<your-api-gateway-url>](https://w60ancsmh5.execute-api.ap-southeast-2.amazonaws.com/Prod/). From here, you should be able to view the API https://ap-southeast-2.console.aws.amazon.com/apigateway/home?region=ap-southeast-2#/apis/w60ancsmh5/resources/53tgxzbaqk/methods/POST
+To access the unsuccessful attempt at creating an API using JSON to communicate between the chatbot and the web app, navigate to the following URL:https://w60ancsmh5.execute-api.ap-southeast-2.amazonaws.com/Prod/. From here, you should be able to view the API https://ap-southeast-2.console.aws.amazon.com/apigateway/home?region=ap-southeast-2#/apis/w60ancsmh5/resources/53tgxzbaqk/methods/POST
 
 Conclusion
 While this attempt at creating and building an integrated chatbot using Amazon Lex through AWS Console, writing the web app using PyCharm and Django framework, and attempting to create an API using JSON to communicate between the chatbot and the web app was unsuccessful, it serves as a valuable learning experience. By studying this attempt, it has provided insights into potential issues and roadblocks that can be encounter when attempting to complete similar projects.
